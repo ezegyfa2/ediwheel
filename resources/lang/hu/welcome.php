@@ -38,7 +38,7 @@ return [
             ],
         ],
         'prototyping' => [
-            'title' => 'PROTOTIPING',
+            'title' => 'PROTOTÍPUS KÉSZÍTÉS',
             'functions' => 'Funkciók: gyorsulás, sebesség, fékezés, kanyarodás, fény.',
             'conditions' => 'Feltételek: meredekség, súly, ütközés.',
         ],

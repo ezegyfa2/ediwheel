@@ -29,7 +29,7 @@
         "fs": "^0.0.1-security",
         "jquery": "^3.6.0",
         "just-clone": "^5.1.0",
-        "la75-vue-components": "*",
+        "ediwheel-vue-components": "*",
         "path": "^0.12.7",
         "popper.js": "^1.16.1",
         "pug": "^3.0.2",

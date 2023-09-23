@@ -12,8 +12,8 @@ class HomeController extends Controller
 {
     public function welcome() {
         return DynamicTemplateMethods::getTranslatedTemplateDynamicPage(
-            'la75_welcome', 
-            'node_modules/la75-vue-components/src/Welcome/CompiledTemplate.json', 
+            'ediwheel_welcome', 
+            'node_modules/ediwheel-vue-components/src/Welcome/CompiledTemplate.json', 
             DynamicTemplateMethods::getTemplateLayoutParams(),
             [ 
                 'welcome', 
@@ -28,8 +28,8 @@ class HomeController extends Controller
 
     public function aboutUs() {
         return DynamicTemplateMethods::getTranslatedTemplateDynamicPage(
-            'la75_about_us', 
-            'node_modules/la75-vue-components/src/AboutUs/CompiledTemplate.json', 
+            'ediwheel_about_us', 
+            'node_modules/ediwheel-vue-components/src/AboutUs/CompiledTemplate.json', 
             DynamicTemplateMethods::getTemplateLayoutParams(),
             [ 
                 'aboutUs',
@@ -51,8 +51,8 @@ class HomeController extends Controller
             $formItemSection->data->placeholder = __($formItemSection->data->placeholder);
         }
         return DynamicTemplateMethods::getTranslatedTemplateDynamicPage(
-            'la75_contact_and_faq', 
-            'node_modules/la75-vue-components/src/ContactAndFAQ/CompiledTemplate.json',
+            'ediwheel_contact_and_faq', 
+            'node_modules/ediwheel-vue-components/src/ContactAndFAQ/CompiledTemplate.json',
             $templateParams, 
             [ 
                 'contactAndFAQ',
