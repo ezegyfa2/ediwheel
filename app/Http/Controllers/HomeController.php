@@ -13,7 +13,7 @@ class HomeController extends Controller
     public function welcome() {
         return DynamicTemplateMethods::getTranslatedTemplateDynamicPage(
             'ediwheel_welcome', 
-            'node_modules/ediwheel-vue-components/src/Welcome/CompiledTemplate.json', 
+            'Welcome', 
             DynamicTemplateMethods::getTemplateLayoutParams(),
             [ 
                 'welcome', 
@@ -29,7 +29,7 @@ class HomeController extends Controller
     public function aboutUs() {
         return DynamicTemplateMethods::getTranslatedTemplateDynamicPage(
             'ediwheel_about_us', 
-            'node_modules/ediwheel-vue-components/src/AboutUs/CompiledTemplate.json', 
+            'AboutUs', 
             DynamicTemplateMethods::getTemplateLayoutParams(),
             [ 
                 'aboutUs',
@@ -52,7 +52,7 @@ class HomeController extends Controller
         }
         return DynamicTemplateMethods::getTranslatedTemplateDynamicPage(
             'ediwheel_contact_and_faq', 
-            'node_modules/ediwheel-vue-components/src/ContactAndFAQ/CompiledTemplate.json',
+            'ContactAndFAQ',
             $templateParams, 
             [ 
                 'contactAndFAQ',
