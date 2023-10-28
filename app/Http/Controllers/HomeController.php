@@ -19,9 +19,7 @@ class HomeController extends Controller
                 'welcome', 
             ],
             [ 
-                'fontawesome/css/fontawesome.min', 
-                'fontawesome/css/brands.min', 
-                'fontawesome/css/solid.min' 
+                'welcome', 
             ]
         );
     }
@@ -35,9 +33,7 @@ class HomeController extends Controller
                 'aboutUs',
             ], 
             [ 
-                'fontawesome/css/fontawesome.min', 
-                'fontawesome/css/brands.min', 
-                'fontawesome/css/solid.min' 
+                'aboutUs',
             ]
         );
     }
@@ -58,9 +54,7 @@ class HomeController extends Controller
                 'contactAndFAQ',
             ], 
             [ 
-                'fontawesome/css/fontawesome.min', 
-                'fontawesome/css/brands.min', 
-                'fontawesome/css/solid.min'  
+                'contactAndFAQ',
             ]
         );
     }
