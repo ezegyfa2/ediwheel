@@ -16,6 +16,7 @@ return [
     'footer' => [
         'terms_of_use' => 'Felhasználási feltételek',
         'privacy_policy' => 'Adatvédelmi irányelvek',
-        'copyright' => 'Minden jog fenntartva'
+        'copyright' => 'Minden jog fenntartva',
+        'created_by' => 'Készítette',
     ]
 ];

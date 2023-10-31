@@ -16,6 +16,7 @@ return [
     'footer' => [
         'terms_of_use' => 'Terms of use',
         'privacy_policy' => 'Privacy policy',
-        'copyright' => 'All rights reserved'
+        'copyright' => 'All rights reserved',
+        'created_by' => 'Created by',
     ]
 ];
