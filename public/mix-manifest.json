@@ -1,9 +1,9 @@
 {
-    "/js/basicPackages.js": "/js/basicPackages.js",
-    "/js/welcome.js": "/js/welcome.js",
-    "/js/aboutUs.js": "/js/aboutUs.js",
-    "/js/contactAndFAQ.js": "/js/contactAndFAQ.js",
-    "/app/Templates/Welcome.json": "/app/Templates/Welcome.json",
-    "/app/Templates/AboutUs.json": "/app/Templates/AboutUs.json",
-    "/app/Templates/ContactAndFAQ.json": "/app/Templates/ContactAndFAQ.json"
+    "/js/1.1/basicPackages.js": "/js/1.1/basicPackages.js",
+    "/js/1.1/welcome.js": "/js/1.1/welcome.js",
+    "/js/1.1/aboutUs.js": "/js/1.1/aboutUs.js",
+    "/js/1.1/contactAndFAQ.js": "/js/1.1/contactAndFAQ.js",
+    "/css/1.1/contactAndFAQ.css": "/css/1.1/contactAndFAQ.css",
+    "/css/1.1/aboutUs.css": "/css/1.1/aboutUs.css",
+    "/css/1.1/welcome.css": "/css/1.1/welcome.css"
 }
