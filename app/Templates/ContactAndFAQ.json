@@ -1,1 +1,249 @@
-{"type":"page","data":{"success_message_sections":[],"error_message_sections":[],"info_message_sections":[],"navigation_bar_section":{"type":"ediwheel-navigation-bar","data":{"title":"eDI","title_url":"/","link_sections":[{"type":"ediwheel-navigation-link","data":{"url":"--routes.about-us","content":"--layout.navbar.about_us"}},{"type":"ediwheel-navigation-link","data":{"url":"--routes.contact-and-faq","content":"--layout.navbar.contact_and_faq"}},{"type":"ediwheel-dropdown-navigation-link","data":{"badge_content":"EN","dropdown_section":{"type":"ediwheel-list-dropdown","data":{"dropdown_item_sections":[{"type":"ediwheel-link-dropdown-item","data":{"url":"http://ediwheel.test/contact-and-faq","content":"EN"}},{"type":"ediwheel-link-dropdown-item","data":{"url":"http://ediwheel.test/kapcsolat-es-gyik","content":"HU"}}],"dropdown_link_id":"dropdown12"}}}}]}},"header_section":{"type":"ediwheel-header","data":{"title_section":{"type":"ediwheel-large-text-content","data":{"title":"--layout.header.title","content":"--layout.header.content"}}}},"content_sections":[{"type":"ediwheel-faq","data":{"title_section":{"type":"ediwheel-medium-text-content","data":{"title":"--contact_and_faq.faq.title","content":"--contact_and_faq.faq.subtitle"}},"item_sections":[{"type":"ediwheel-faq-item","data":{"title":"--contact_and_faq.faq.question1","content":"--contact_and_faq.faq.answer1"}},{"type":"ediwheel-faq-item","data":{"title":"--contact_and_faq.faq.question2","content":"--contact_and_faq.faq.answer2"}},{"type":"ediwheel-faq-item","data":{"title":"--contact_and_faq.faq.question3","content":"--contact_and_faq.faq.answer3"}},{"type":"ediwheel-faq-item","data":{"title":"--contact_and_faq.faq.question4","content":"--contact_and_faq.faq.answer4"}},{"type":"ediwheel-faq-item","data":{"title":"--contact_and_faq.faq.question5","content":"--contact_and_faq.faq.answer5"}},{"type":"ediwheel-faq-item","data":{"title":"--contact_and_faq.faq.question6","content":"--contact_and_faq.faq.answer6"}}]}},{"type":"ediwheel-contact-form","data":{"id":"contact_us","url":"/contact-and-faq","title_section":{"type":"ediwheel-white-medium-text-content","data":{"title":"--contact_and_faq.contact_form.title","content":"--contact_and_faq.contact_form.subtitle"}},"form_item_sections":[{"type":"text-input","data":{"name":"name","label":"contact_and_faq.contact_form.name.label","default":null,"required":true,"validation_errors":[],"form_item_type":"input","type":"text","maxlength":255,"minlength":0,"placeholder":"Name"}},{"type":"text-input","data":{"name":"email","label":"contact_and_faq.contact_form.email.label","default":null,"required":true,"validation_errors":[],"form_item_type":"input","type":"email","maxlength":255,"minlength":0,"placeholder":"Email"}},{"type":"text-input","data":{"name":"phone","label":"contact_and_faq.contact_form.phone.label","default":null,"required":true,"validation_errors":[],"form_item_type":"input","type":"tel","maxlength":15,"minlength":0,"placeholder":"Phone"}},{"type":"textarea","data":{"name":"message","label":"contact_and_faq.contact_form.message.label","default":null,"required":true,"validation_errors":[],"placeholder":"Message"}}],"button_title":"--contact_and_faq.contact_form.button_title"}}],"footer_section":{"type":"ediwheel-footer","data":{"icon_links_section":{"type":"wertically-icon-links","data":{"icon_sections":[{"type":"ediwheel-button-icon-link","data":{"url":"","icon_class":"fab fa-twitter"}},{"type":"ediwheel-button-icon-link","data":{"url":"","icon_class":"fab fa-facebook-f"}},{"type":"ediwheel-button-icon-link","data":{"url":"","icon_class":"fab fa-linkedin-in"}}]}},"footer_link_sections":[],"copyright":{"company_name":"© 2022 ediwheel corporation","content":"--layout.footer.copyright"}}}}}
+{
+    "type": "page",
+    "data": {
+        "success_message_sections": [],
+        "error_message_sections": [],
+        "info_message_sections": [],
+        "navigation_bar_section": {
+            "type": "ediwheel-navigation-bar",
+            "data": {
+                "title": "eDI",
+                "title_url": "/",
+                "link_sections": [
+                    {
+                        "type": "ediwheel-navigation-link",
+                        "data": {
+                            "url": "--routes.about-us",
+                            "content": "--layout.navbar.about_us"
+                        }
+                    },
+                    {
+                        "type": "ediwheel-navigation-link",
+                        "data": {
+                            "url": "--routes.contact-and-faq",
+                            "content": "--layout.navbar.contact_and_faq"
+                        }
+                    },
+                    {
+                        "type": "ediwheel-dropdown-navigation-link",
+                        "data": {
+                            "badge_content": "EN",
+                            "dropdown_section": {
+                                "type": "ediwheel-list-dropdown",
+                                "data": {
+                                    "dropdown_item_sections": [
+                                        {
+                                            "type": "ediwheel-link-dropdown-item",
+                                            "data": {
+                                                "url": "http://ediwheel.test/contact-and-faq",
+                                                "content": "EN"
+                                            }
+                                        },
+                                        {
+                                            "type": "ediwheel-link-dropdown-item",
+                                            "data": {
+                                                "url": "http://ediwheel.test/kapcsolat-es-gyik",
+                                                "content": "HU"
+                                            }
+                                        }
+                                    ],
+                                    "dropdown_link_id": "dropdown12"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "header_section": {
+            "type": "ediwheel-header",
+            "data": {
+                "title_section": {
+                    "type": "ediwheel-large-text-content",
+                    "data": {
+                        "title": "--layout.header.title",
+                        "content": "--layout.header.content"
+                    }
+                }
+            }
+        },
+        "content_sections": [
+            {
+                "type": "ediwheel-faq",
+                "data": {
+                    "title_section": {
+                        "type": "ediwheel-medium-text-content",
+                        "data": {
+                            "title": "--contact_and_faq.faq.title",
+                            "content": "--contact_and_faq.faq.subtitle"
+                        }
+                    },
+                    "item_sections": [
+                        {
+                            "type": "ediwheel-faq-item",
+                            "data": {
+                                "title": "--contact_and_faq.faq.question1",
+                                "content": "--contact_and_faq.faq.answer1"
+                            }
+                        },
+                        {
+                            "type": "ediwheel-faq-item",
+                            "data": {
+                                "title": "--contact_and_faq.faq.question2",
+                                "content": "--contact_and_faq.faq.answer2"
+                            }
+                        },
+                        {
+                            "type": "ediwheel-faq-item",
+                            "data": {
+                                "title": "--contact_and_faq.faq.question3",
+                                "content": "--contact_and_faq.faq.answer3"
+                            }
+                        },
+                        {
+                            "type": "ediwheel-faq-item",
+                            "data": {
+                                "title": "--contact_and_faq.faq.question4",
+                                "content": "--contact_and_faq.faq.answer4"
+                            }
+                        },
+                        {
+                            "type": "ediwheel-faq-item",
+                            "data": {
+                                "title": "--contact_and_faq.faq.question5",
+                                "content": "--contact_and_faq.faq.answer5"
+                            }
+                        },
+                        {
+                            "type": "ediwheel-faq-item",
+                            "data": {
+                                "title": "--contact_and_faq.faq.question6",
+                                "content": "--contact_and_faq.faq.answer6"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "ediwheel-contact-form",
+                "data": {
+                    "id": "contact_us",
+                    "url": "/contact-and-faq",
+                    "title_section": {
+                        "type": "ediwheel-white-medium-text-content",
+                        "data": {
+                            "title": "--contact_and_faq.contact_form.title",
+                            "content": "--contact_and_faq.contact_form.subtitle"
+                        }
+                    },
+                    "form_item_sections": [
+                        {
+                            "type": "text-input",
+                            "data": {
+                                "name": "name",
+                                "label": "contact_and_faq.contact_form.name.label",
+                                "default": null,
+                                "required": true,
+                                "validation_errors": [],
+                                "form_item_type": "input",
+                                "type": "text",
+                                "maxlength": 255,
+                                "minlength": 0,
+                                "placeholder": "Name"
+                            }
+                        },
+                        {
+                            "type": "text-input",
+                            "data": {
+                                "name": "email",
+                                "label": "contact_and_faq.contact_form.email.label",
+                                "default": null,
+                                "required": true,
+                                "validation_errors": [],
+                                "form_item_type": "input",
+                                "type": "email",
+                                "maxlength": 255,
+                                "minlength": 0,
+                                "placeholder": "Email"
+                            }
+                        },
+                        {
+                            "type": "text-input",
+                            "data": {
+                                "name": "phone",
+                                "label": "contact_and_faq.contact_form.phone.label",
+                                "default": null,
+                                "required": true,
+                                "validation_errors": [],
+                                "form_item_type": "input",
+                                "type": "tel",
+                                "maxlength": 15,
+                                "minlength": 0,
+                                "placeholder": "Phone"
+                            }
+                        },
+                        {
+                            "type": "textarea",
+                            "data": {
+                                "name": "message",
+                                "label": "contact_and_faq.contact_form.message.label",
+                                "default": null,
+                                "required": true,
+                                "validation_errors": [],
+                                "placeholder": "Message"
+                            }
+                        }
+                    ],
+                    "button_title": "--contact_and_faq.contact_form.button_title"
+                }
+            }
+        ],
+        "footer_section": {
+            "type": "ediwheel-footer",
+            "data": {
+                "icon_links_section": {
+                    "type": "wertically-icon-links",
+                    "data": {
+                        "icon_sections": [
+                            {
+                                "type": "ediwheel-button-icon-link",
+                                "data": {
+                                    "url": "",
+                                    "icon_class": "fab fa-twitter"
+                                }
+                            },
+                            {
+                                "type": "ediwheel-button-icon-link",
+                                "data": {
+                                    "url": "",
+                                    "icon_class": "fab fa-facebook-f"
+                                }
+                            },
+                            {
+                                "type": "ediwheel-button-icon-link",
+                                "data": {
+                                    "url": "",
+                                    "icon_class": "fab fa-linkedin-in"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "footer_link_sections": [
+                    {
+                        "type": "ediwheel-created-by-link",
+                        "data": {
+                            "start_content": "--layout.footer.created_by",
+                            "url": "https://dynamic-web-consulting.com",
+                            "content": "Dynamic web consulting"
+                        }
+                    }
+                ],
+                "copyright": {
+                    "company_name": "© 2022 ediwheel corporation",
+                    "content": "--layout.footer.copyright"
+                }
+            }
+        }
+    }
+}

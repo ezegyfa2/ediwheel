@@ -1,1 +1,396 @@
-{"type":"page","data":{"success_message_sections":[],"error_message_sections":[],"info_message_sections":[],"navigation_bar_section":{"type":"ediwheel-navigation-bar","data":{"title":"eDI","title_url":"/","link_sections":[{"type":"ediwheel-navigation-link","data":{"url":"--routes.about-us","content":"--layout.navbar.about_us"}},{"type":"ediwheel-navigation-link","data":{"url":"--routes.contact-and-faq","content":"--layout.navbar.contact_and_faq"}},{"type":"ediwheel-dropdown-navigation-link","data":{"badge_content":"EN","dropdown_section":{"type":"ediwheel-list-dropdown","data":{"dropdown_item_sections":[{"type":"ediwheel-link-dropdown-item","data":{"url":"http://ediwheel.test/about-us","content":"EN"}},{"type":"ediwheel-link-dropdown-item","data":{"url":"http://ediwheel.test/rolunk","content":"HU"}}],"dropdown_link_id":"dropdown12"}}}}]}},"header_section":{},"content_sections":[{"type":"ediwheel-description-container","data":{"description_sections":[{"type":"ediwheel-description","data":{"text_content_section":{"type":"ediwheel-black-large-text-content","data":{"content":"eDI","added_classes":{".content":"mb-0"}}},"image_url":"/assets/aboutUs/description/ediwheel.png","image_alt":"..."}},{"type":"ediwheel-description","data":{"text_content_section":{"type":"ediwheel-description-text-content","data":{"title":"--about_us.description.wheel.title","content":"--about_us.description.wheel.content","added_classes":{".content":"mb-0"}}},"image_url":"/assets/aboutUs/description/wheel.png","image_alt":"..."}},{"type":"ediwheel-description","data":{"text_content_section":{"type":"ediwheel-description-text-content","data":{"title":"--about_us.description.markets.title","content":"--about_us.description.markets.content","added_classes":{".content":"mb-0"}}},"image_url":"/assets/aboutUs/description/markets.png","image_alt":"..."}},{"type":"ediwheel-description","data":{"text_content_section":{"type":"ediwheel-table","data":{"title":"--about_us.description.biggest_competitor.title","column_names":["","Smart ForTwo","eDI"],"rows":[["--about_us.description.biggest_competitor.energy_usage","167 Wh/km","80 Wh/km"],["--about_us.description.biggest_competitor.range","100 km","200 km"],["--about_us.description.biggest_competitor.price","$23 000","$11 000"]]}},"image_url":"/assets/aboutUs/description/biggest competitor.png","image_alt":"..."}},{"type":"ediwheel-description","data":{"text_content_section":{"type":"ediwheel-description-text-content","data":{"title":"--about_us.description.wheel_motor.title","content":"--about_us.description.wheel_motor.content","added_classes":{".content":"mb-0"}}},"image_url":"/assets/aboutUs/description/wheel motor.png","image_alt":"..."}},{"type":"ediwheel-table","data":{"title":"--about_us.description.subventions.title","subtitle":"--about_us.description.subventions.subtitle","column_names":["--about_us.description.subventions.countries.netherland.name","--about_us.description.subventions.countries.germany.name","--about_us.description.subventions.countries.france.name","--about_us.description.subventions.countries.japan.name","--about_us.description.subventions.countries.south_korea.name","--about_us.description.subventions.countries.usa.name"],"rows":[["€2,950","€3,000","€7,000","~$7,000","~max $7,500","$7,500"],["--about_us.description.subventions.countries.netherland.subvention","--about_us.description.subventions.countries.germany.subvention","--about_us.description.subventions.countries.france.subvention","--about_us.description.subventions.countries.japan.subvention","--about_us.description.subventions.countries.south_korea.subvention","--about_us.description.subventions.countries.usa.subvention"]],"footer_texts":["--about_us.description.subventions.footer.eu_has_incentives","--about_us.description.subventions.footer.edi_design"]}}]}},{"type":"ediwheel-team","data":{"title_section":{"type":"ediwheel-medium-text-content","data":{"title":"--about_us.team.title","content":"--about_us.team.subtitle"}},"member_sections":[{"type":"ediwheel-team-member","data":{"image_url":"assets/aboutUs/team/Aron.png","image_alt":"...","title_section":{"type":"ediwheel-small-text-content","data":{"title":"Ecsenyi Aron","content":"--about_us.team.members.aron"}},"contact_icons_section":{"type":"wertically-icon-links","data":{"icon_sections":[{"type":"ediwheel-button-icon-link2","data":{"url":"","icon_class":"fab fa-twitter"}},{"type":"ediwheel-button-icon-link2","data":{"url":"","icon_class":"fab fa-facebook-f"}},{"type":"ediwheel-button-icon-link2","data":{"url":"","icon_class":"fab fa-linkedin-in"}}]}}}},{"type":"ediwheel-team-member","data":{"image_url":"assets/aboutUs/team/Levente.png","image_alt":"...","title_section":{"type":"ediwheel-small-text-content","data":{"title":"Czutor Levente","content":"--about_us.team.members.levente"}},"contact_icons_section":{"type":"wertically-icon-links","data":{"icon_sections":[{"type":"ediwheel-button-icon-link2","data":{"url":"","icon_class":"fab fa-twitter"}},{"type":"ediwheel-button-icon-link2","data":{"url":"","icon_class":"fab fa-facebook-f"}},{"type":"ediwheel-button-icon-link2","data":{"url":"","icon_class":"fab fa-linkedin-in"}}]}}}},{"type":"ediwheel-team-member","data":{"image_url":"assets/aboutUs/team/Anirudh.jpg","image_alt":"...","title_section":{"type":"ediwheel-small-text-content","data":{"title":"Anirudh Pednekar","content":"--about_us.team.members.anirudh"}},"contact_icons_section":{"type":"wertically-icon-links","data":{"icon_sections":[{"type":"ediwheel-button-icon-link2","data":{"url":"","icon_class":"fab fa-twitter"}},{"type":"ediwheel-button-icon-link2","data":{"url":"","icon_class":"fab fa-facebook-f"}},{"type":"ediwheel-button-icon-link2","data":{"url":"","icon_class":"fab fa-linkedin-in"}}]}}}}],"footer_text":"--about_us.team.footer_text"}}],"footer_section":{"type":"ediwheel-footer","data":{"icon_links_section":{"type":"wertically-icon-links","data":{"icon_sections":[{"type":"ediwheel-button-icon-link","data":{"url":"","icon_class":"fab fa-twitter"}},{"type":"ediwheel-button-icon-link","data":{"url":"","icon_class":"fab fa-facebook-f"}},{"type":"ediwheel-button-icon-link","data":{"url":"","icon_class":"fab fa-linkedin-in"}}]}},"footer_link_sections":[],"copyright":{"company_name":"© 2022 ediwheel corporation","content":"--layout.footer.copyright"}}}}}
+{
+    "type": "page",
+    "data": {
+        "success_message_sections": [],
+        "error_message_sections": [],
+        "info_message_sections": [],
+        "navigation_bar_section": {
+            "type": "ediwheel-navigation-bar",
+            "data": {
+                "title": "eDI",
+                "title_url": "/",
+                "link_sections": [
+                    {
+                        "type": "ediwheel-navigation-link",
+                        "data": {
+                            "url": "--routes.about-us",
+                            "content": "--layout.navbar.about_us"
+                        }
+                    },
+                    {
+                        "type": "ediwheel-navigation-link",
+                        "data": {
+                            "url": "--routes.contact-and-faq",
+                            "content": "--layout.navbar.contact_and_faq"
+                        }
+                    },
+                    {
+                        "type": "ediwheel-dropdown-navigation-link",
+                        "data": {
+                            "badge_content": "EN",
+                            "dropdown_section": {
+                                "type": "ediwheel-list-dropdown",
+                                "data": {
+                                    "dropdown_item_sections": [
+                                        {
+                                            "type": "ediwheel-link-dropdown-item",
+                                            "data": {
+                                                "url": "http://ediwheel.test/about-us",
+                                                "content": "EN"
+                                            }
+                                        },
+                                        {
+                                            "type": "ediwheel-link-dropdown-item",
+                                            "data": {
+                                                "url": "http://ediwheel.test/rolunk",
+                                                "content": "HU"
+                                            }
+                                        }
+                                    ],
+                                    "dropdown_link_id": "dropdown12"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "header_section": {},
+        "content_sections": [
+            {
+                "type": "ediwheel-description-container",
+                "data": {
+                    "description_sections": [
+                        {
+                            "type": "ediwheel-description",
+                            "data": {
+                                "text_content_section": {
+                                    "type": "ediwheel-black-large-text-content",
+                                    "data": {
+                                        "content": "eDI",
+                                        "added_classes": {
+                                            ".content": "mb-0"
+                                        }
+                                    }
+                                },
+                                "image_url": "aboutUs/description/ediwheel",
+                                "image_alt": "..."
+                            }
+                        },
+                        {
+                            "type": "ediwheel-description",
+                            "data": {
+                                "text_content_section": {
+                                    "type": "ediwheel-description-text-content",
+                                    "data": {
+                                        "title": "--about_us.description.wheel.title",
+                                        "content": "--about_us.description.wheel.content",
+                                        "added_classes": {
+                                            ".content": "mb-0"
+                                        }
+                                    }
+                                },
+                                "image_url": "aboutUs/description/wheel",
+                                "image_alt": "..."
+                            }
+                        },
+                        {
+                            "type": "ediwheel-description",
+                            "data": {
+                                "text_content_section": {
+                                    "type": "ediwheel-description-text-content",
+                                    "data": {
+                                        "title": "--about_us.description.markets.title",
+                                        "content": "--about_us.description.markets.content",
+                                        "added_classes": {
+                                            ".content": "mb-0"
+                                        }
+                                    }
+                                },
+                                "image_url": "aboutUs/description/markets",
+                                "image_alt": "..."
+                            }
+                        },
+                        {
+                            "type": "ediwheel-description",
+                            "data": {
+                                "text_content_section": {
+                                    "type": "ediwheel-table",
+                                    "data": {
+                                        "title": "--about_us.description.biggest_competitor.title",
+                                        "column_names": [
+                                            "",
+                                            "Smart ForTwo",
+                                            "eDI"
+                                        ],
+                                        "rows": [
+                                            [
+                                                "--about_us.description.biggest_competitor.energy_usage",
+                                                "167 Wh/km",
+                                                "80 Wh/km"
+                                            ],
+                                            [
+                                                "--about_us.description.biggest_competitor.range",
+                                                "100 km",
+                                                "200 km"
+                                            ],
+                                            [
+                                                "--about_us.description.biggest_competitor.price",
+                                                "$23 000",
+                                                "$11 000"
+                                            ]
+                                        ]
+                                    }
+                                },
+                                "image_url": "aboutUs/description/biggestCompetitor",
+                                "image_alt": "..."
+                            }
+                        },
+                        {
+                            "type": "ediwheel-description",
+                            "data": {
+                                "text_content_section": {
+                                    "type": "ediwheel-description-text-content",
+                                    "data": {
+                                        "title": "--about_us.description.wheel_motor.title",
+                                        "content": "--about_us.description.wheel_motor.content",
+                                        "added_classes": {
+                                            ".content": "mb-0"
+                                        }
+                                    }
+                                },
+                                "image_url": "aboutUs/description/wheelMotor",
+                                "image_alt": "..."
+                            }
+                        },
+                        {
+                            "type": "ediwheel-table",
+                            "data": {
+                                "title": "--about_us.description.subventions.title",
+                                "subtitle": "--about_us.description.subventions.subtitle",
+                                "column_names": [
+                                    "--about_us.description.subventions.countries.netherland.name",
+                                    "--about_us.description.subventions.countries.germany.name",
+                                    "--about_us.description.subventions.countries.france.name",
+                                    "--about_us.description.subventions.countries.japan.name",
+                                    "--about_us.description.subventions.countries.south_korea.name",
+                                    "--about_us.description.subventions.countries.usa.name"
+                                ],
+                                "rows": [
+                                    [
+                                        "€2,950",
+                                        "€3,000",
+                                        "€7,000",
+                                        "~$7,000",
+                                        "~max $7,500",
+                                        "$7,500"
+                                    ],
+                                    [
+                                        "--about_us.description.subventions.countries.netherland.subvention",
+                                        "--about_us.description.subventions.countries.germany.subvention",
+                                        "--about_us.description.subventions.countries.france.subvention",
+                                        "--about_us.description.subventions.countries.japan.subvention",
+                                        "--about_us.description.subventions.countries.south_korea.subvention",
+                                        "--about_us.description.subventions.countries.usa.subvention"
+                                    ]
+                                ],
+                                "footer_texts": [
+                                    "--about_us.description.subventions.footer.eu_has_incentives",
+                                    "--about_us.description.subventions.footer.edi_design"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "ediwheel-team",
+                "data": {
+                    "title_section": {
+                        "type": "ediwheel-medium-text-content",
+                        "data": {
+                            "title": "--about_us.team.title",
+                            "content": "--about_us.team.subtitle"
+                        }
+                    },
+                    "member_sections": [
+                        {
+                            "type": "ediwheel-team-member",
+                            "data": {
+                                "image_url": "assets/aboutUs/team/Aron.png",
+                                "image_alt": "...",
+                                "title_section": {
+                                    "type": "ediwheel-small-text-content",
+                                    "data": {
+                                        "title": "Ecsenyi Aron",
+                                        "content": "--about_us.team.members.aron"
+                                    }
+                                },
+                                "contact_icons_section": {
+                                    "type": "wertically-icon-links",
+                                    "data": {
+                                        "icon_sections": [
+                                            {
+                                                "type": "ediwheel-button-icon-link2",
+                                                "data": {
+                                                    "url": "",
+                                                    "icon_class": "fab fa-twitter"
+                                                }
+                                            },
+                                            {
+                                                "type": "ediwheel-button-icon-link2",
+                                                "data": {
+                                                    "url": "",
+                                                    "icon_class": "fab fa-facebook-f"
+                                                }
+                                            },
+                                            {
+                                                "type": "ediwheel-button-icon-link2",
+                                                "data": {
+                                                    "url": "",
+                                                    "icon_class": "fab fa-linkedin-in"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "type": "ediwheel-team-member",
+                            "data": {
+                                "image_url": "assets/aboutUs/team/Levente.png",
+                                "image_alt": "...",
+                                "title_section": {
+                                    "type": "ediwheel-small-text-content",
+                                    "data": {
+                                        "title": "Czutor Levente",
+                                        "content": "--about_us.team.members.levente"
+                                    }
+                                },
+                                "contact_icons_section": {
+                                    "type": "wertically-icon-links",
+                                    "data": {
+                                        "icon_sections": [
+                                            {
+                                                "type": "ediwheel-button-icon-link2",
+                                                "data": {
+                                                    "url": "",
+                                                    "icon_class": "fab fa-twitter"
+                                                }
+                                            },
+                                            {
+                                                "type": "ediwheel-button-icon-link2",
+                                                "data": {
+                                                    "url": "",
+                                                    "icon_class": "fab fa-facebook-f"
+                                                }
+                                            },
+                                            {
+                                                "type": "ediwheel-button-icon-link2",
+                                                "data": {
+                                                    "url": "",
+                                                    "icon_class": "fab fa-linkedin-in"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "type": "ediwheel-team-member",
+                            "data": {
+                                "image_url": "assets/aboutUs/team/Anirudh.jpg",
+                                "image_alt": "...",
+                                "title_section": {
+                                    "type": "ediwheel-small-text-content",
+                                    "data": {
+                                        "title": "Anirudh Pednekar",
+                                        "content": "--about_us.team.members.anirudh"
+                                    }
+                                },
+                                "contact_icons_section": {
+                                    "type": "wertically-icon-links",
+                                    "data": {
+                                        "icon_sections": [
+                                            {
+                                                "type": "ediwheel-button-icon-link2",
+                                                "data": {
+                                                    "url": "",
+                                                    "icon_class": "fab fa-twitter"
+                                                }
+                                            },
+                                            {
+                                                "type": "ediwheel-button-icon-link2",
+                                                "data": {
+                                                    "url": "",
+                                                    "icon_class": "fab fa-facebook-f"
+                                                }
+                                            },
+                                            {
+                                                "type": "ediwheel-button-icon-link2",
+                                                "data": {
+                                                    "url": "",
+                                                    "icon_class": "fab fa-linkedin-in"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "footer_text": "--about_us.team.footer_text"
+                }
+            }
+        ],
+        "footer_section": {
+            "type": "ediwheel-footer",
+            "data": {
+                "icon_links_section": {
+                    "type": "wertically-icon-links",
+                    "data": {
+                        "icon_sections": [
+                            {
+                                "type": "ediwheel-button-icon-link",
+                                "data": {
+                                    "url": "",
+                                    "icon_class": "fab fa-twitter"
+                                }
+                            },
+                            {
+                                "type": "ediwheel-button-icon-link",
+                                "data": {
+                                    "url": "",
+                                    "icon_class": "fab fa-facebook-f"
+                                }
+                            },
+                            {
+                                "type": "ediwheel-button-icon-link",
+                                "data": {
+                                    "url": "",
+                                    "icon_class": "fab fa-linkedin-in"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "footer_link_sections": [
+                    {
+                        "type": "ediwheel-created-by-link",
+                        "data": {
+                            "start_content": "--layout.footer.created_by",
+                            "url": "https://dynamic-web-consulting.com",
+                            "content": "Dynamic web consulting"
+                        }
+                    }
+                ],
+                "copyright": {
+                    "company_name": "© 2022 ediwheel corporation",
+                    "content": "--layout.footer.copyright"
+                }
+            }
+        }
+    }
+}

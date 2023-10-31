@@ -1,6 +1,9 @@
 {
     "/js/basicPackages.js": "/js/basicPackages.js",
+    "/js/welcome.js": "/js/welcome.js",
+    "/js/aboutUs.js": "/js/aboutUs.js",
     "/js/contactAndFAQ.js": "/js/contactAndFAQ.js",
-    "/css/contactAndFAQ.css": "/css/contactAndFAQ.css",
-    "/app/Templates/contactAndFAQ.json": "/app/Templates/contactAndFAQ.json"
+    "/app/Templates/Welcome.json": "/app/Templates/Welcome.json",
+    "/app/Templates/AboutUs.json": "/app/Templates/AboutUs.json",
+    "/app/Templates/ContactAndFAQ.json": "/app/Templates/ContactAndFAQ.json"
 }
